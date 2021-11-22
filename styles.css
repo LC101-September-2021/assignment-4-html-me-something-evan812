@@ -38,3 +38,6 @@ section {
   .funParagraph{
       color: green;
   }
+  #mainHeading {
+      color: red;
+  }
