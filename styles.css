@@ -35,3 +35,6 @@ section {
   #location {
     text-decoration: underline;
   }
+  .funParagraph{
+      color: green;
+  }
